@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/) *(adicione seu perfil aqui)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-rodrigues-5588223b1/)
 - 📧 Email: *vnsgalaxy07@gmail.com*  
 
 ---
