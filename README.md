@@ -14,6 +14,22 @@
 
 ---
 
+## 🎓 Certificações
+
+- Fundamentos em Python (20h) – Voitto  
+- Automação de Testes para API com JavaScript (10h) – QazanDo  
+- Iniciando no Mundo da Automação (10h) – QazanDo  
+- Conceitos de Testes de Software (10h) – QazanDo  
+- Teste de Performance com JMeter (7h) – QazanDo  
+- Ferramentas de Gestão de Testes (6h) – QazanDo  
+- Como Utilizar o Gherkin da Forma Correta (5h) – QazanDo  
+- JavaScript para Testers (4h) – QazanDo  
+- Versionamento de Código com Git e GitHub (2h) – DIO  
+- Introdução ao Java e seu Ambiente de Desenvolvimento (2h) – DIO  
+- Projeto: Criando um APP Simples de Cadastro de Séries em .NET (2h) – DIO  
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
