@@ -6,7 +6,7 @@
 
 ---
 
-## 🔎 Sobre mim
+## 🔎 Eu
 - 🌱 Atualmente estudando **Testes de Software, Automação e QA**
 - 🧪 Explorando ferramentas como **Selenium, Cypress, JUnit, Postman, Jira**
 - 📊 Interessado em **BDD (Behavior Driven Development), Planejamento de Testes - Manual** e boas práticas de documentação
